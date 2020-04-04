@@ -1,3 +1,4 @@
+# Бинарный поиск числа в массиве
 import random
 
 def bin_search(array, value):
